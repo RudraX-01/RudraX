@@ -1,5 +1,5 @@
 ---
-title: RudraX
+title: Post-Transformer Architectures: Fixed Memory vs. Growing Context
 sdk: streamlit
 app_file: app.py
 
