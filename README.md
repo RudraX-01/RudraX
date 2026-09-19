@@ -6,7 +6,7 @@ app_file: app.py
 
 # Post-Transformer Architectures: Fixed Memory vs. Growing Context
 
-**🌟 Live Demo:** [https://rudrax.streamlit.app/](https://rudrax.streamlit.app/)
+**🌟 Live Demo:** [View Demo](https://dataforge2026.streamlit.app)
 
 ## One-Sentence Claim
 A fixed-size recurrent state can process arbitrarily long sequences without allocating a new memory slot for each token, but storing more associations in that fixed state can cause retrieval interference.
