@@ -1,9 +1,8 @@
----
+'''bash
 title: Post-Transformer Architectures: Fixed Memory vs. Growing Context
 sdk: streamlit
 app_file: app.py
-
----
+'''bash
 
 # Post-Transformer Architectures: Fixed Memory vs. Growing Context
 
